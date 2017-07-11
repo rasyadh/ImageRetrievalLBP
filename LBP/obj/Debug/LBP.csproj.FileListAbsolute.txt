@@ -1,0 +1,9 @@
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\LBP\LBP\bin\Debug\LBP.exe.config
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\LBP\LBP\obj\Debug\LBP.csprojResolveAssemblyReference.cache
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\LBP\LBP\obj\Debug\LBP.LBP.resources
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\LBP\LBP\obj\Debug\LBP.Properties.Resources.resources
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\LBP\LBP\obj\Debug\LBP.csproj.GenerateResource.Cache
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\LBP\LBP\bin\Debug\LBP.exe
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\LBP\LBP\bin\Debug\LBP.pdb
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\LBP\LBP\obj\Debug\LBP.exe
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\LBP\LBP\obj\Debug\LBP.pdb
